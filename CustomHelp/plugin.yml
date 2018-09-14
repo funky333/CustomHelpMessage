@@ -1,0 +1,8 @@
+main: de.funky33.customhelp.Main
+version: 0.1
+name: CustomHelp
+author: funky33
+
+commands:
+    help:
+      description: Custom Help Command!

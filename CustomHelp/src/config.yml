@@ -1,0 +1,19 @@
+config:
+  
+  activated: true
+  
+  pages: 6
+  
+  page1:
+    - '&6First Line works as example'
+  page2:
+    - '&4Same here'
+  page3:
+    - '&4Same here'
+  page4:
+    - '&4Same here'
+  page5:
+    - '&4Same here'
+  page6:
+    - '&4To add more pages increase the pages counter and add pages like this example'
+    - '&1This is a second Line'
